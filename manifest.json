@@ -1,0 +1,75 @@
+{
+  "release": "resource-packs-2026-11-12",
+  "assets": [
+    {
+      "name": "map-spleef-zh.zip",
+      "assetId": 740388792,
+      "sha1": "c7a334639bab36e219d6404f96a7c2800e4fcb8b",
+      "downloadUrl": "https://github.com/harrynhj/minigame-resource-packs/releases/download/resource-packs-2026-11-12/map-spleef-zh.zip",
+      "title": "Makers Spleef II",
+      "credit": "MineMakers Team; Chinese translation 一条鱼丸_",
+      "source": "https://minemakers.net/makers-spleef-2",
+      "compatibility": "Original supplied Chinese translation; 26.3 display not yet verified."
+    },
+    {
+      "name": "honeywars-zh.zip",
+      "assetId": 740388881,
+      "sha1": "6b4c9cbc55e7c638e4ab57d99fc93c44627a5f08",
+      "downloadUrl": "https://github.com/harrynhj/minigame-resource-packs/releases/download/resource-packs-2026-11-12/honeywars-zh.zip",
+      "title": "Honey Missile Wars",
+      "credit": "Chinese translation 一条鱼丸_",
+      "source": "https://www.minecraftmaps.com/48564-honey-missile-wars",
+      "compatibility": "Original supplied Chinese translation; 26.3 display not yet verified."
+    },
+    {
+      "name": "common-minigames.zip",
+      "assetId": 740389012,
+      "sha1": "561e4b86c6bf9f4ad74a71108221c0eb3967a2de",
+      "downloadUrl": "https://github.com/harrynhj/minigame-resource-packs/releases/download/resource-packs-2026-11-12/common-minigames.zip",
+      "title": "Map-MiniGames",
+      "credit": "wifi-left",
+      "source": "https://github.com/wifi-left/Map-MiniGames",
+      "compatibility": "Original 26.3 resource pack, same-version client; display not yet verified."
+    },
+    {
+      "name": "send-in-the-clowns.zip",
+      "assetId": 740389101,
+      "sha1": "e454326167bbc35e2c42e1159d959cf966e38675",
+      "downloadUrl": "https://github.com/harrynhj/minigame-resource-packs/releases/download/resource-packs-2026-11-12/send-in-the-clowns.zip",
+      "title": "Send in the Clowns",
+      "credit": "Mundi Maps (TheWorfer27 and Twelfth115)",
+      "source": "https://www.minecraftmaps.com/50458-send-in-the-clowns",
+      "compatibility": "Original supplied world resource pack; cross-version display not yet verified."
+    },
+    {
+      "name": "pest-original.zip",
+      "assetId": 740389465,
+      "sha1": "95af6db8da054432c58710ce17b34a5612f28fbe",
+      "downloadUrl": "https://github.com/harrynhj/minigame-resource-packs/releases/download/resource-packs-2026-11-12/pest-original.zip",
+      "title": "Pest can't pass!",
+      "credit": "CR-019 and ABraHam_Sid (pack metadata)",
+      "source": null,
+      "compatibility": "Original 1.21.11 pack; shader compatibility with 26.3 is not confirmed."
+    },
+    {
+      "name": "chase-26.3-experimental.zip",
+      "assetId": 740389609,
+      "sha1": "61ec876bc115505ab733a839486c4061d34c3839",
+      "downloadUrl": "https://github.com/harrynhj/minigame-resource-packs/releases/download/resource-packs-2026-11-12/chase-26.3-experimental.zip",
+      "title": "追击时刻",
+      "credit": "寄语团队 / Dawn_dust",
+      "source": null,
+      "compatibility": "Experimental conversion of supplied original pack for 26.3 item models; not yet play-tested."
+    },
+    {
+      "name": "lucky-pillar.zip",
+      "assetId": 740390188,
+      "sha1": "9437c9bac5e668f6230126be3536b8a43b331c50",
+      "downloadUrl": "https://github.com/harrynhj/minigame-resource-packs/releases/download/resource-packs-2026-11-12/lucky-pillar.zip",
+      "title": "幸运之柱",
+      "credit": "一条鱼丸_",
+      "source": "https://github.com/YuWan886/Lucky-Pillar",
+      "compatibility": "Original supplied pack; older shader behavior on 26.3 is not confirmed."
+    }
+  ]
+}
